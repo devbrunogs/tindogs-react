@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Tindogs - Match your favorite Dogs!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This small fun project uses https://dog.ceo/ API to provide adorable dog picture you can like - Like Tinder, but for dogs!
 
 ## Available Scripts
 
